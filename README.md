@@ -4,7 +4,7 @@ Explain how to use dotenv library.
 
 ## Usage
 
-Create .env from env.sample.
+Create .env using env.sample.
 
 Install dependencies using the command `npm i`.
 
